@@ -1,0 +1,32 @@
+body #gates-footer, {
+width: auto;
+}
+#top-menu {
+width: 100%;
+}
+#gates-social-icons {
+clear: both;
+margin-top: 10px;
+}
+#gates-search {
+float: left;
+}
+.box {
+padding: 10px!important;
+}
+.box.menu li {
+margin: 0;
+}
+#footer-menu {
+display: inline-block;
+float: none;
+text-align: center;
+}
+#footer-menu li {
+display: inline-block;
+float: none;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev { left:-10px;}
+.owl-theme .owl-controls .owl-buttons .owl-next { right:-10px;}
+.top-contact-bar {display:none}
+.gates-page.vc {padding-left:10px!important; padding-right:10px!important; box-sizing:border-box;}
